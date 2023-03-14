@@ -11,5 +11,6 @@ These models were trained on a subset of this entire dataset.
 
 The presentation for this project is uploaded on youtube and can be accessed using this link:
 
-https://youtu.be/UuYlCjIPY9M
+[![Project Presentation](https://img.youtube.com/vi/UuYlCjIPY9M/0.jpg)](https://www.youtube.com/watch?v=UuYlCjIPY9M)
+
 
